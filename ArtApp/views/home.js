@@ -65,6 +65,7 @@ RealtorApp.Home = function (params) {
         homeItemClick: function(object) {
             RealtorApp.app.navigate("Details/" + object.model.ID);
         },
+        
         searchItemClick: function () {
             if (!this.text()) {
                 errorMessage("Merci d'entrer une recherche");

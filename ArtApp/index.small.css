@@ -57,7 +57,7 @@
 .home .search-button {
     position: absolute;
     top: 55px;
-    left: 50%;
+    left: 35%;
     margin-left: -100px;
     opacity: 1;
 }
@@ -65,16 +65,23 @@
 .home .search-button > .icon {
     float:left;
     background-image: url('images/search.png');
-    width: 54px;
-    height: 54px;
+    width: 30px;
+    height: 30px;
     background-size: cover;
-    margin: 0px 5px;    
+    margin: 5px 5px;    
 }
 
 .home .search-button > .name {
     float:left;
+    display: block;
     color: white;
     font-size: 40px;
+    margin: -4px 5px 5px 5px;
+}
+.home .search-button > .newname {
+    float:left;
+    color: white;
+    font-size: 30px;
     margin: -4px 5px 5px 5px;
 }
 
