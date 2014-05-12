@@ -44,45 +44,46 @@ RealtorApp.data.SampleData = [
     },
     {
         ID: "6",
-        Name: "Bain à la Grenouillère",
+        Name: "bain à la grenouillère",
         Year: "1869",
         Artiste: "Claude Monet",
         Features: "Bain à la Grenouillère est un tableau réalisé par le peintre impressionniste Claude Monet en 1869. Il fait partie de la collection du Metropolitan Museum of Art à New York. La Grenouillère était un restaurant de bains sur la Seine. Elle était fréquentée par la petite bourgeoisie parisienne. La toile représente le « camembert », un petit îlot planté d’un arbre unique, reliant l’île au bateau-ponton par des planches étroites et glissantes… qui provoquent chutes et baignades imprévues ! Un tableau ayant le même sujet intitulé La Grenouillère a été peint la même année par Auguste Renoir. Peints sur l'Île de la Chaussée, face au restaurant La Grenouillère, les 2 tableaux sont reproduits sur le lieu de leurs créations sur le Chemin des Impréssionnistes. La technique de peinture impressionniste fut inventé au cours de l'été 1869 quand Renoir et Monet peignirent la Grenouillère sur l'île de Croissy.",
         Images: ["data/Homes/bainalagrenouillere.jpg"]
     },
-    /*
+    
     {
         ID: "7",
-        Name: "",
-        Year: "",
-        Artiste: "",
-        Features: "",
-        Images: ["data/Homes/.jpg"]
+        Name: "les joueurs de cartes",
+        Year: "1892-1895",
+        Artiste: "Paul Cézanne",
+        Features: "Les Joueurs de cartes de Paul Cézanne ont fait l'objet de plusieurs versions de la part de l'artiste. La première composition comporte plusieurs personnages, mais au fur et à mesure que Cézanne traite le sujet, il en réduit le nombre jusqu'à aboutir à une composition à deux personnages dont le caractère évoque une nature morte. Dans la version à quatre personnages, une lumière diurne blafarde à la tonalité bleue et froide domine le tableau. Les visages et les mains des joueurs sont peints dans un ton chaud d'orange qui indique la concentration, la tension intérieure sous une apparence tranquille. Ce contraste est repris en haut à droite dans la tenture bouffante et dans la blouse bleue du personnage de droite. Dans la version à deux personnages, la composition est totalement différente. L'arrière-plan est presque complètement sombre et seules quelques bandes claires offrent un indice sur la localisation, probablement la terrasse couverte d'un café. Chaque détail du tableau a sa fonction pour l'effet d'ensemble. Rien n'est laissé au hasard. Refusant toute mise en scène naturaliste ou représentation anecdotique, Cézanne parvient ici à réaliser une composition soigneusement conçue, constituée de lignes axiales et de correspondances chromatiques et formelles, dans laquelle sont immortalisées de la même manière monumentalité et intimité. Il existe 5 versions connues, conservées au musée d'Orsay, au Courtauld de Londres, au Metropolitan Museum de New York, à la Barnes Foundation de Philadelphie. La dernière version en mains privées a appartenu à l'armateur grec George Embiricos et a été vendue à la famille royale du Qatar, dans le cadre d'une transaction privée pour un montant de 191,5 millions d’euros1.",
+        Images: ["data/Homes/lesjoueursdecatres.jpg"]
     },
     {
         ID: "8",
-        Name: "",
-        Year: "",
-        Artiste: "",
-        Features: "",
-        Images: ["data/Homes/.jpg"]
+        Name: "No. 5",
+        Year: "1948",
+        Artiste: "Jackson Pollock",
+        Features: "No. 5 (ou Number Five) est un tableau du peintre américain Jackson Pollock datant de 1948, c'est-à-dire du début de sa période dite « classique » (il est donc contemporain de Number 1 et de Lavender Mist). Peint sur un panneau dur de 8 × 4 ' (2,44 × 1,22 m) qui, étant vernis, a pris une teinte brun clair, il a été réalisé par passages superposés d'huile (noir), de blanc, de peinture aluminium puis, suivant un ordre difficile à reconstituer, de rouge foncé, de brun, de jaune, de noir et enfin de blanc en surface (avec éventuellement plusieurs passages dans la même couleur). La couleur est plutôt déversée et égouttée en épuisement du déversement, avec plus ou moins de vigueur, les effets allant d'une « écriture » automatique à une relative maîtrise. Le terme dripping (pour « égouttement ») est donc inapproprié.",
+        Images: ["data/Homes/No5.jpg"]
     },
     {
         ID: "9",
-        Name: "",
-        Year: "",
-        Artiste: "",
-        Features: "",
-        Images: ["data/Homes/.jpg"]
+        Name: "Portrait d'Adele Bloch-Bauer I",
+        Year: "1907",
+        Artiste: "Gustav Klimt",
+        Features: "Klimt a mis trois ans pour accomplir cette peinture. Formant un carré de 138 centimètres de côté, elle est peinte sur une toile avec de la peinture à l'huile ainsi que de l'or et de l'argent qui mettent en valeur l'ornement raffiné et complexe comme on le retrouve dans l'Art nouveau allemand, le Jugendstil. Klimt était un membre de la sécession viennoise, un groupe d'artistes qui a rompu avec la peinture traditionnelle. Inspiré par les mosaïques de la basilique Saint-Vital, à Ravenne, et plus particulièrement celle représentant l’impératrice Théodora (VIe siècle), Klimt crée avec le portrait d’Adèle Bloch-Bauer un monument à la gloire de la beauté féminine. L’utilisation abondante de l’or aux dépens de la couleur et ce rapport intime à l’histoire créent une aura unique qui distingue le Jugendstil viennois des autres versions de l’Art nouveau à travers l’Europe. Dans le même temps, la finesse des détails du visage d’Adèle Bloch-Bauer évite au sujet de disparaître dans l’anonymat induit par la portée universelle du tableau. Le tableau a été peint à Vienne et commandé par Ferdinand Bloch-Bauer, un riche industriel qui, ayant fait fortune dans l'industrie du sucre, est devenu un mécène pour de nombreux artistes et notamment Gustav Klimt qu'il a soutenu. Adele Bloch-Bauer est le seul modèle que Klimt a peint deux fois puisqu'il existe un second tableau la représentant, Adele Bloch-Bauer II, réalisé en 1912.",
+        Images: ["data/Homes/portraitdadeleblochBauerI.jpg"]
     },
     {
         ID: "10",
-        Name: "",
-        Year: "",
-        Artiste: "",
-        Features: "",
-        Images: ["data/Homes/.jpg"]
+        Name: "Le Massacre des Innocents",
+        Year: "1611-1612",
+        Artiste: "Pierre Paul Rubens",
+        Features: "La première version peinte par Rubens date de 1611–12. Au xviie siècle, l'œuvre faisait partie de la collection du Liechtenstein Museum à Vienne en Autriche, avec un autre chef-d'œuvre de Rubens, Samson et Dalila. En 1767, le peintre Vincenzio Fanti omit l'œuvre de Rubens de son catalogue du Liechtenstein Museum, puis il fut attribué à l'un des assistants de Rubens, le peintre flamand Jan van den Hoecke. Le tableau est resté dans le musée jusqu'en 1920 lorsqu'une famille autrichienne en fit l'acquisition. Il fut ensuite prêté en 1923 au Stift Reichersberg, un monastère Augustins du nord de l'Autriche. En 2001, l'expert en peinture flamande et allemande, George Gordon, vit le tableau lors d'une vente chez Sotheby's à Londres. Alors qu'il n'était tenu jusque-là que pour le travail d'un élève de Rubens, cet expert fut persuadé qu'il s'agissait bien d'une œuvre du maître lui-même en raison de la similarité de ses caractéristiques et de son style avec le tableau Samson et Delilah que Rubens réalisé à la même période. L'œuvre fut vendu lors de la vente aux enchère de Sotheby's, le 10 juillet 2002 pour 49,5 millions de livres sterling, soit environ 62,5 millions d'euros, à un homme d'affaires et collectionneur d'art canadien, Kenneth Thomson. Il s'agissait à l'époque du plus cher tableau ancien jamais vendu aux enchères. Après la vente, l'œuvre fut prêtée à la National Gallery pendant un certain temps puis, en 2008, elle fut transférée au musée des beaux-arts de l'Ontario à Toronto à laquelle Kenneth Thomson fit donation du tableau.",
+        Images: ["data/Homes/lemassacredesinnocents.jpg"]
     },
+    /*
     {
         ID: "11",
         Name: "",

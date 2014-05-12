@@ -44,8 +44,34 @@ $(function() {
     }
 
     function getBestOffers(take) {
+        function alea(min, max) {return (Math.floor((max-min)*Math.random())+min); }
+
+        var nbimage = 10;
+
+        function getrandom()
+        {
+            var tmp = -1;
+            do
+            {
+                tmp = alea(0,nbimage);
+            }while(nb1 == tmp || nb2 == tmp || nb3 == tmp || nb4 == tmp || nb5 == tmp)
+            return tmp;
+        }
+
+        var nb1 = -1;
+        var nb2 = -1;
+        var nb3 = -1;
+        var nb4 = -1;
+        var nb5 = -1;
+
+        nb1 = getrandom();
+        nb2 = getrandom();
+        nb3 = getrandom();
+        nb4 = getrandom();
+        nb5 = getrandom();
+
         var result = $.Deferred(),
-            bestOffersList = [1, 2, 3, 4, 5],
+            bestOffersList = [nb1, nb2, nb3, nb4, nb5],
             topProperties = [];
         if (!take || isNaN(take) || take > bestOffersList.length)
             take = bestOffersList.length;
